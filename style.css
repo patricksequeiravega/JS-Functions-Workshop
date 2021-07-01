@@ -5,12 +5,16 @@
   transform: translate(-50%,-50%);
   width: 200px;
   background: #eee;
+  width: 242px;
 }
 
 .msgBox p {
   line-height: 1.5;
   padding: 10px 20px;
   color: #333;
+  padding-left: 82px;
+  background-position: 25px center;
+  background-repeat: no-repeat;
 }
 
 .msgBox button {
@@ -21,4 +25,6 @@
   right: 0;
   font-size: 1.1rem;
   color: #aaa;
+  
+
 }
